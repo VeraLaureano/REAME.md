@@ -5,7 +5,7 @@
 
 ``` javascript
 const skills = {
-  frontend: ['html', 'css', 'javascript', 'typescript', 'nodejs', 'express', 'mongodb']
+  frontend: ['html', 'css', 'javascript', 'typescript', 'nodejs', 'express', 'mongodb'],
   tools: [['git', 'github'], 'linux'],
   soft: ['adaptability', 'enthusiastic', 'confidence', 'empathy']
 }
